@@ -2,7 +2,7 @@
      Lives in a repo named exactly "SaadMalikOmar" to show on your profile page. -->
 
 # Hi, I'm Saad 👋
-### Cyber Security Graduate · SOC & Penetration Testing · eBPF Detection
+### 🛡️ Cyber Security Graduate · SOC & Penetration Testing · eBPF Detection
 
 First Class BSc (Hons) Cyber Security & Digital Forensics (Kingston University). I work across both sides of security, running the attacks in a lab and building the kernel-level detection that catches them. Currently sharpening hands-on skills on TryHackMe and working toward my **eJPT**, with **OSCP** next.
 
@@ -32,9 +32,7 @@ First Class BSc (Hons) Cyber Security & Digital Forensics (Kingston University).
 
 # 📊 GitHub Stats:
 
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaadMalikOmar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)<br/>
-![GitHub Streak](https://streak-stats.demolab.com?user=SaadMalikOmar&theme=tokyonight&hide_border=true)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaadMalikOmar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=NSA-multiplayerfps-csharp)
+![GitHub Streak](https://streak-stats.demolab.com?user=SaadMalikOmar&theme=tokyonight&hide_border=true)
 
 ---
 
