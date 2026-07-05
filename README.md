@@ -9,7 +9,7 @@ First Class BSc (Hons) Cyber Security & Digital Forensics (Kingston University).
 - 🔭 Headline project: a lightweight, explainable **eBPF intrusion detection system** (91%)
 - 🌱 Learning: offensive security — **eJPT** in progress, **OSCP** planned
 - 🎯 Targeting: junior **SOC Analyst / Penetration Tester** roles (London / UK / remote)
-- 🗣️ Languages: English, Urdu, Punjabi (all native)
+- 🗣️ Languages: English, Urdu, Hindi, Punjabi (all native)
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/muhammad-saad-omar-299a162b3)
 
 ---
