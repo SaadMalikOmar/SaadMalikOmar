@@ -4,7 +4,7 @@
 # Hi, I'm Saad 👋
 ### 🛡️ Cyber Security Graduate · SOC & Penetration Testing · eBPF Detection
 
-First Class BSc (Hons) Cyber Security & Digital Forensics (Kingston University). I work across both sides of security, running the attacks in a lab and building the kernel-level detection that catches them. Currently sharpening hands-on skills on TryHackMe and working toward my **eJPT**, with **OSCP** next.
+First Class BSc (Hons) Cyber Security & Digital Forensics (Kingston University). I work across both sides of security, running the attacks in a lab and building the kernel-level detection that catches them. Currently sharpening hands-on skills on TryHackMe (towards SAL1) and working toward my **eJPT**, with **OSCP** next.
 
 - 🔭 Headline project: a lightweight, explainable **eBPF intrusion detection system** (91%)
 - 🌱 Learning: offensive security — **eJPT** in progress, **OSCP** planned
