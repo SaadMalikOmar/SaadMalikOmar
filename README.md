@@ -7,7 +7,7 @@
 First Class BSc (Hons) Cyber Security & Digital Forensics (Kingston University). I work across both sides of security, running the attacks in a lab and building the kernel-level detection that catches them. Currently sharpening hands-on skills on TryHackMe (towards SAL1) and working toward my **eJPT**, with **OSCP** next.
 
 - 🔭 Headline project: a lightweight, explainable **eBPF intrusion detection system** (91%)
-- 🌱 Learning: offensive security — **eJPT** in progress, **OSCP** planned
+- 🌱 Learning: offensive security - **eJPT** in progress, **OSCP** planned
 - 🎯 Targeting: junior **SOC Analyst / Penetration Tester** roles (London / UK / remote)
 - 🗣️ Languages: English, Urdu, Hindi, Punjabi (all native)
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/muhammad-saad-omar-299a162b3)
